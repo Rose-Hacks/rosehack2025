@@ -12,7 +12,7 @@
 
 ## Figma
 
-[Rosehack 2025 Website Figma Design File](https://www.figma.com/design/f7pkPwceCQV53xNUitqX1g/Untitled?node-id=109-2&t=AFN8DFHj9n12CVBj-1)
+[Rosehack 2025 Website Figma Design File]
 
 ## Node.js
 
